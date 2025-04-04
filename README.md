@@ -8,7 +8,7 @@ I'm **Sai Akshitha Reddy Kota**, a passionate **Data Scientist** with a deep ent
 🧠 Currently learning to: **Integrate AI Agents into Real-World Applications**
 
 <p align="center">
-  <img src="https://github.com/saiakshitha33/saiakshitha33/blob/main/image.png" alt="Cute Puppy" width="350"/>
+  <img src="https://github.com/saiakshitha33/saiakshitha33/blob/main/beautiful-office-space-cartoon-style.jpg" alt="Dev Workspace" width="600"/>
 </p>
 
 ---
@@ -28,20 +28,16 @@ Exploring LangChain, AutoGen, and other cutting-edge agentic tools.
 
 ### 📊 GitHub Stats
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiakshitha33&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiakshitha33&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=saiakshitha33&theme=radical)
 
----
 
 ### 📜 Certifications:
-- 🧠 [TensorFlow Developer Certificate](#)
-- ☁️ [AWS Certified Solutions Architect](#)
-- 🧪 [IBM Data Science Professional Certificate](#)
 
-> *(Tip: Replace `#` with actual URLs to your certifications if you have them online)*
-
----
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Developer%20Certificate-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow Certificate"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS Solutions Architect"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-054ADA?logo=ibm&logoColor=white&style=for-the-badge" alt="IBM Data Science"/></a>
+</p>
 
 ### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/saiakshitha33/)  
