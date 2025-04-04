@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saiakshitha33/saiakshitha33/main/beautiful-office-space-cartoon-style.jpg" alt="Dev Workspace" width="300" align="right" />
-</p>
-
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      
 ### 👋 Hello World!
 
 I'm **Sai Akshitha Reddy Kota**, a passionate **Data Scientist** with a deep enthusiasm for building smart, scalable AI-powered applications.
@@ -11,6 +11,12 @@ I'm **Sai Akshitha Reddy Kota**, a passionate **Data Scientist** with a deep ent
 - 🌍 1.5 years of experience as a **Data Scientist in India**  
 - 🧠 Currently learning to **integrate AI Agents into real-world applications**
 
+    </td>
+    <td valign="middle" align="center" width="35%">
+      <img src="https://raw.githubusercontent.com/saiakshitha33/saiakshitha33/main/beautiful-office-space-cartoon-style.jpg" alt="Dev Workspace" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
