@@ -109,7 +109,7 @@
 ### 🎮 Just for Fun
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding fun GIF"/>
+  <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="300" />
 </p>
 
 > 😅 I debug for a living — and sometimes for fun.  
