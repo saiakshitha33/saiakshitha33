@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saiakshitha33/saiakshitha33/main/beautiful-office-space-cartoon-style.jpg" alt="Dev Workspace" width="320" align="right" />
+  <img src="https://raw.githubusercontent.com/saiakshitha33/saiakshitha33/main/beautiful-office-space-cartoon-style.jpg" alt="Dev Workspace" width="300" align="right" />
 </p>
 
 ### 👋 Hello World!
