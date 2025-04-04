@@ -18,8 +18,7 @@
   </tr>
 </table>
 
----
----
+
 
 ### 🚀 Let’s Collaborate On:
 - Machine Learning & Deep Learning Projects  
@@ -54,8 +53,6 @@ Exploring LangChain, AutoGen, and other cutting-edge agentic tools.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/saiakshitha33/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=flat)](https://github.com/saiakshitha33)  
 🌍 Based in Athens, USA — open to global collabs!
-
----
 
 ---
 
