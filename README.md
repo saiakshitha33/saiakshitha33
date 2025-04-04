@@ -8,7 +8,7 @@ I'm **Sai Akshitha Reddy Kota**, a passionate **Data Scientist** with a deep ent
 🧠 Currently learning to: **Integrate AI Agents into Real-World Applications**
 
 <p align="center">
-  <img src="https://github.com/saiakshitha33/saiakshitha33/blob/main/beautiful-office-space-cartoon-style.jpg" alt="Dev Workspace" width="600"/>
+  <img src="https://github.com/saiakshitha33/saiakshitha33/blob/main/beautiful-office-space-cartoon-style.jpg" alt="Dev Workspace" width="450"/>
 </p>
 
 ---
