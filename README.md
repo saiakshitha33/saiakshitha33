@@ -7,6 +7,10 @@ I'm **Sai Akshitha Reddy Kota**, a passionate **Data Scientist** with a deep ent
 🌏 Worked in **India for 1.5 years** as a **Data Scientist**  
 🧠 Currently learning to: **Integrate AI Agents into Real-World Applications**
 
+<p align="center">
+  <img src="https://github.com/saiakshitha33/saiakshitha33/blob/main/image.png" alt="Cute Puppy" width="350"/>
+</p>
+
 ---
 
 ### 🚀 Let’s Collaborate On:
@@ -51,4 +55,3 @@ Exploring LangChain, AutoGen, and other cutting-edge agentic tools.
 
 ---
 
-_💡 P.S. You can add project cards, pinned repos, or portfolio site links next!_
