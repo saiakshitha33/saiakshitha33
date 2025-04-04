@@ -1,22 +1,22 @@
-<table>
-  <tr>
-    <td width="60%">
-      <h1>👋 Hello World!</h1>
-      <p>
-        I'm <strong>Sai Akshitha Reddy Kota</strong>, a passionate <strong>Data Scientist</strong> with a deep enthusiasm for building smart, scalable AI-powered applications.
-      </p>
-      <ul>
-        <li>🎓 Graduated from the <strong>University of Georgia, Athens</strong></li>
-        <li>🧪 Former <strong>Research Assistant at UGA</strong> working on <strong>NLP, Transformers, and Computer Vision</strong></li>
-        <li>🌏 1.5 years of experience as a <strong>Data Scientist in India</strong></li>
-        <li>🧠 Currently learning to <strong>integrate AI Agents into real-world applications</strong></li>
-      </ul>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/saiakshitha33/saiakshitha33/main/beautiful-office-space-cartoon-style.jpg" alt="Dev Workspace" width="270" style="border-radius:10px;"/>
-    </td>
-  </tr>
-</table>
+<h1 align="left">👋 Hello World!</h1>
+
+<p align="left">
+I'm <strong>Sai Akshitha Reddy Kota</strong>, a passionate <strong>Data Scientist</strong> with a deep enthusiasm for building smart, scalable AI-powered applications.
+</p>
+
+<div align="left">
+  
+- 🎓 Graduated from the <strong>University of Georgia, Athens</strong>  
+- 🧪 Former <strong>Research Assistant at UGA</strong> working on <strong>NLP, Transformers, and Computer Vision</strong>  
+- 🌍 1.5 years of experience as a <strong>Data Scientist in India</strong>  
+- 🧠 Currently learning to <strong>integrate AI Agents</strong> into real-world applications  
+  
+</div>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/saiakshitha33/saiakshitha33/main/beautiful-office-space-cartoon-style.jpg" alt="Dev Workspace" width="320"/>
+</p>
+
 
 ---
 
