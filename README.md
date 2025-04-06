@@ -37,7 +37,6 @@ I'm **Sai Akshitha Reddy Kota**, a passionate **Data Scientist** with a deep ent
 ### 📜 Certifications
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Developer%20Certificate-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-054ADA?logo=ibm&logoColor=white&style=for-the-badge"/></a>
 </p>
