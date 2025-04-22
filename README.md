@@ -8,7 +8,7 @@ I'm **Sai Akshitha Reddy Kota**, a passionate **Data Scientist** with a deep ent
 
 - 🎓 Graduated from the **University of Georgia, Athens**  
 - 🧪 Former **Research Assistant at UGA** working on **NLP, Transformers, and Computer Vision**  
-- 🌍 1.5 years of experience as a **Data Scientist in India**  
+- 🌍 3 years of experience as a **Data Scientist  and analyst in India**  
 - 🧠 Currently learning to **integrate AI Agents into real-world applications**
 
     </td>
