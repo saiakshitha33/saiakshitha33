@@ -90,8 +90,10 @@ I'm **Sai Akshitha Reddy Kota**, a passionate **Data Scientist** with a deep ent
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/saiakshitha33/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/saiakshitha33)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/saiakshitha33)
+[![Email](https://img.shields.io/badge/Email-saiakshitha.kota%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:saiakshitha.kota@gmail.com)  
 🌍 Based in Athens, USA — open to global collaborations!
+
 
 ---
 
