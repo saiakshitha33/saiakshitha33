@@ -4,11 +4,11 @@
 
 ### 👋 Hello World!
 
-I’m **P Va**, a **Senior Machine Learning Engineer** with 5+ years of experience delivering intelligent ML/AI solutions across **finance, healthcare, and enterprise tech**.
+I’m ** Sai Akshitha Reddy Kota **, a **Senior Machine Learning Engineer** with 5+ years of experience delivering intelligent ML/AI solutions across **healthcare, and enterprise tech**.
 
 - 💼 **ML Engineer at HEXstream** | Ex–ZenQ  
 - 🧠 **LLM & NLP Specialist** – building Q&A bots, custom pipelines, and GenAI apps  
-- ☁️ Deployed production-grade ML systems on **GCP, AWS, and Azure**  
+- ☁️ Deployed production-grade ML systems on **GCP, AWS**  
 - 🛠️ CI/CD, model monitoring, RAG pipelines, and ML APIs using FastAPI, FAISS, Redis  
 
 </td>
