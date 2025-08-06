@@ -29,14 +29,6 @@ I’m **Sai Akshitha Reddy Kota**, a **Senior Machine Learning Engineer** with 5
 
 ---
 
-### 🧪 Currently Exploring
-
-> Building **domain-specific GenAI agents**, automating data tasks with **LLMs**, and reducing model inference latency  
-> Tools: `LangChain`, `OpenAI APIs`, `FAISS`, `MLflow`, `FastAPI`, `Kubernetes`, `Terraform`
-
-
----
-
 ### 📜 Certifications
 
 <p align="left">
