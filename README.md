@@ -4,7 +4,7 @@
 
 ### 👋 Hello World!
 
-I’m ** Sai Akshitha Reddy Kota **, a **Senior Machine Learning Engineer** with 5+ years of experience delivering intelligent ML/AI solutions across **healthcare, and enterprise tech**.
+I’m **Sai Akshitha Reddy Kota**, a **Senior Machine Learning Engineer** with 5+ years of experience delivering intelligent ML/AI solutions across **healthcare, and enterprise tech**.
 
 - 💼 **ML Engineer at HEXstream** | Ex–ZenQ  
 - 🧠 **LLM & NLP Specialist** – building Q&A bots, custom pipelines, and GenAI apps  
