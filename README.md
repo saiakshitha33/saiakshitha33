@@ -13,7 +13,8 @@ I’m **Sai Akshitha Reddy Kota**, a **Senior Machine Learning Engineer** with 5
 
 </td>
 <td valign="middle" align="center" width="35%">
-  <img src="https://avatars.githubusercontent.com/u/127275849?v=4" alt="Avatar" width="300"/>
+  <img src="saiakshitha33
+/beautiful-office-space-cartoon-style.jpg" alt="Avatar" width="300"/>
 </td>
 </tr>
 </table>
