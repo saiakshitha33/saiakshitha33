@@ -34,6 +34,7 @@ I’m **Sai Akshitha Reddy Kota**, a **Senior Machine Learning Engineer** with 5
 > Building **domain-specific GenAI agents**, automating data tasks with **LLMs**, and reducing model inference latency  
 > Tools: `LangChain`, `OpenAI APIs`, `FAISS`, `MLflow`, `FastAPI`, `Kubernetes`, `Terraform`
 
+
 ---
 
 ### 📜 Certifications
@@ -42,9 +43,12 @@ I’m **Sai Akshitha Reddy Kota**, a **Senior Machine Learning Engineer** with 5
   <a href="#"><img src="https://img.shields.io/badge/LLM%20Applications-FF6F00?logo=OpenAI&logoColor=white&style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MLOps–Vertex%20AI-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/AWS%20Machine%20Learning-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GCP–Professional%20ML%20Engineer-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/IBM%20Data%20Science-054ADA?logo=ibm&logoColor=white&style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/DeepLearning.AI–Specialization-272727?logo=coursera&logoColor=white&style=for-the-badge"/></a>
 </p>
+----
 
----
 
 ### 💻 Tech Stack
 
