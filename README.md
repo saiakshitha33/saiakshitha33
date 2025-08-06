@@ -47,34 +47,77 @@ I’m **Sai Akshitha Reddy Kota**, a **Senior Machine Learning Engineer** with 5
   <a href="#"><img src="https://img.shields.io/badge/IBM%20Data%20Science-054ADA?logo=ibm&logoColor=white&style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/DeepLearning.AI–Specialization-272727?logo=coursera&logoColor=white&style=for-the-badge"/></a>
 </p>
-----
+---
 
 
 ### 💻 Tech Stack
 
 <p>
+  <!-- Core Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-000000?style=flat-square&logo=vector&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-003C5E?style=flat-square&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LoRA/QLoRA-272727?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
----
+<p>
+  <!-- Cloud Platforms & MLOps -->
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-34A853?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Functions-34A853?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+</p>
+
+<p>
+  <!-- Vector Databases & RAG -->
+  <img src="https://img.shields.io/badge/FAISS-000000?style=flat-square&logo=vector&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-0052CC?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-9D3DFD?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-272727?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+<p>
+  <!-- Deployment, Containers, DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+
+<p>
+  <!-- MLOps Tools -->
+  <img src="https://img.shields.io/badge/MLflow-003C5E?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth2-0078D4?style=flat-square&logoColor=white"/>
+</p>
+
+<p>
+  <!-- OCR, Document AI, and NLP -->
+  <img src="https://img.shields.io/badge/OCR-Tesseract-blueviolet?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Document%20AI-0A66C2?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LayoutLM-family-orange?style=flat-square&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NER%20%26%20RE-NLP-green?style=flat-square&logo=spacy&logoColor=white"/>
+</p>
+
+<p>
+  <!-- Language Models & Open Source LMs -->
+  <img src="https://img.shields.io/badge/Llama%20%7C%20Mistral%20%7C%20Phi--3%20%7C%20Nemotron-000000?style=flat-square&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20APIs-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FF6F00?style=flat-square&logo=huggingface&logoColor=white"/>
+</p>
+
+<p>
+  <!-- Other Skills -->
+  <img src="https://img.shields.io/badge/JSON%20Schema-272727?style=flat-square&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHI%2FPII%20Masking-FF5733?style=flat-square&logo=security&logoColor=white"/>
+
+</p>
+----
 
 ### 📫 Connect with Me
 
